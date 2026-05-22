@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-05-22",
+  "market_snapshots": {
+    "Tokenized_T_Bills": "5.2% APR",
+    "Commercial_Real_Estate_Debt": "8.4% APR",
+    "Stablecoin_Lending_Base": "4.1% APR"
+  },
+  "recommended_allocation": {
+    "low_risk": 0.60,
+    "medium_risk": 0.30,
+    "high_alpha": 0.10
+  }
+}
